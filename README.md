@@ -1,6 +1,9 @@
 # Docker Cheat Sheet
 
-NOTE: This used to be a gist that continually expanded.  It's now a github project because it's considerably easier for other people to edit, fix and expand on Docker using Github.  Just click "edit" on README.md in the browser and it will do the rest.
+GI Todos: 
+  1. Check the GCE requirments and add it as a new section
+  2. Have a blog post with the tips section.
+  3. Create a talk (10min) about it.
 
 * [Why](https://gist.github.com/wsargent/7049221#why)
 * [I just want a dev environment](https://gist.github.com/wsargent/7049221#tldr-i-just-want-a-dev-environment)
