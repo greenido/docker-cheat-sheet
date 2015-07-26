@@ -346,3 +346,7 @@ docker images -viz | dot -Tpng -o docker.png
 ```
 
 
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-65622529-1/docker-cheat-sheet/main)](https://github.com/igrigorik/ga-beacon)
+
